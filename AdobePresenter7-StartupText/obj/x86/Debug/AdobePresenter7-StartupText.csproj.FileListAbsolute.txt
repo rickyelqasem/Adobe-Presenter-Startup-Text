@@ -1,0 +1,10 @@
+S:\devwork\AdobePresenter7-StartupText\AdobePresenter7-StartupText\AdobePresenter7-StartupText\bin\Debug\AdobePresenter7-StartupText.exe
+S:\devwork\AdobePresenter7-StartupText\AdobePresenter7-StartupText\AdobePresenter7-StartupText\bin\Debug\AdobePresenter7-StartupText.pdb
+S:\devwork\AdobePresenter7-StartupText\AdobePresenter7-StartupText\AdobePresenter7-StartupText\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\devwork\AdobePresenter7-StartupText\AdobePresenter7-StartupText\AdobePresenter7-StartupText\obj\x86\Debug\AdobePresenter7_StartupText.Form1.resources
+S:\devwork\AdobePresenter7-StartupText\AdobePresenter7-StartupText\AdobePresenter7-StartupText\obj\x86\Debug\AdobePresenter7_StartupText.Properties.Resources.resources
+S:\devwork\AdobePresenter7-StartupText\AdobePresenter7-StartupText\AdobePresenter7-StartupText\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\devwork\AdobePresenter7-StartupText\AdobePresenter7-StartupText\AdobePresenter7-StartupText\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\devwork\AdobePresenter7-StartupText\AdobePresenter7-StartupText\AdobePresenter7-StartupText\obj\x86\Debug\AdobePresenter7-StartupText.exe
+S:\devwork\AdobePresenter7-StartupText\AdobePresenter7-StartupText\AdobePresenter7-StartupText\obj\x86\Debug\AdobePresenter7-StartupText.pdb
+S:\devwork\AdobePresenter7-StartupText\AdobePresenter7-StartupText\AdobePresenter7-StartupText\obj\x86\Debug\AdobePresenter7_StartupText.Help.resources
